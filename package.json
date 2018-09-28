@@ -1,0 +1,22 @@
+{
+  "name": "mysongbook",
+  "version": "1.0.0",
+  "description": "Beispielanwendung \"My Songbook\" ===============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanBen86/MySongbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanBen86/MySongbook/issues"
+  },
+  "homepage": "https://github.com/KanBen86/MySongbook#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.1"
+  }
+}
